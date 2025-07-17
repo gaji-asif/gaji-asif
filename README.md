@@ -2,6 +2,20 @@
 
 ###
 
+<p align="left">I'm a passionate and curious Software Developer with over 5 years of experience turning ideas into digital experiences that make a difference.
+
+Over the years, I’ve had the opportunity to work on a variety of projects, from small tools that solve specific problems to large applications used by thousands of people. What I enjoy most is the creative side of development—understanding a need, brainstorming a solution, and bringing it to life in a way that's helpful and easy to use.
+
+I believe in continuous learning, clear communication, and building things that are not just functional, but thoughtful and impactful. Whether I’m working independently or as part of a team, I take pride in being reliable, detail-oriented, and always open to new challenges.
+
+Outside of work, you’ll often find me exploring new ideas, helping others learn, or diving into something creative—whether that’s reading, writing, or working on personal projects.
+
+### 📬 Let’s Connect
+
+I’m always open to connecting with other developers, creatives, and curious minds. Whether you want to collaborate, share ideas, or just say hello—feel free to reach out!</p>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
