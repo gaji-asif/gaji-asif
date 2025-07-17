@@ -8,11 +8,7 @@ Over the years, I’ve had the opportunity to work on a variety of projects, fro
 
 I believe in continuous learning, clear communication, and building things that are not just functional, but thoughtful and impactful. Whether I’m working independently or as part of a team, I take pride in being reliable, detail-oriented, and always open to new challenges.
 
-Outside of work, you’ll often find me exploring new ideas, helping others learn, or diving into something creative—whether that’s reading, writing, or working on personal projects.
-
-### 📬 Let’s Connect
-
-I’m always open to connecting with other developers, creatives, and curious minds. Whether you want to collaborate, share ideas, or just say hello—feel free to reach out!</p>
+I’m always open to connecting with other developers, creatives, and curious minds.</p>
 
 ###
 
