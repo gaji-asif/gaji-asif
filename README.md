@@ -1,5 +1,13 @@
 # 💫 About Me:
-I'm a passionate and curious Software Developer who have experiences turning ideas into digital experiences that make a difference.<br><br>Over the years, I’ve had the opportunity to work on a variety of projects, from small tools that solve specific problems to large applications used by thousands of people. What I enjoy most is the creative side of development—understanding a need, brainstorming a solution, and bringing it to life in a way that's helpful and easy to use.<br><br>I believe in continuous learning, clear communication, and building things that are not just functional, but thoughtful and impactful. Whether I’m working independently or as part of a team, I take pride in being reliable, detail-oriented, and always open to new challenges.<br><br>I’m always open to connecting with other developers, creatives, and curious minds.
+I'm a passionate Full Stack Software Engineer with 6+ years of experience building scalable web applications, backend services, and REST APIs. I enjoy solving real-world problems by designing clean, maintainable, and reliable software.
+
+Throughout my career, I've worked on projects ranging from e-commerce platforms and ERP systems to real-time communication, location-based applications, and vehicle marketplace platforms. My primary technologies include Laravel, Node.js, React, TypeScript, PostgreSQL, Docker, and AWS.
+
+I'm passionate about software architecture, backend engineering, cloud technologies, and continuously improving code quality through testing, automation, and best engineering practices.
+
+I'm currently expanding my skills by learning ASP.NET Core, C#, Entity Framework Core, and xUnit, while building hands-on projects to strengthen my knowledge of the .NET ecosystem.
+
+I enjoy collaborating with other developers, contributing to meaningful projects, and continuously learning new technologies that help me become a better software engineer.
 
 
 # 💻 Tech Stack:
