@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate Full Stack Software Engineer with 6+ years of experience building scalable web applications, backend services, and REST APIs. I enjoy solving real-world problems by designing clean, maintainable, and reliable software.
+I'm a passionate Full Stack Software Engineer with 8+ years of experience building scalable web applications, backend services, and REST APIs. I enjoy solving real-world problems by designing clean, maintainable, and reliable software.
 
 Throughout my career, I've worked on projects ranging from e-commerce platforms and ERP systems to real-time communication, location-based applications, and vehicle marketplace platforms. My primary technologies include Laravel, Node.js, React, TypeScript, PostgreSQL, Docker, and AWS.
 
